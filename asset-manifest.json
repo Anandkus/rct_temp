@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rct_temp/static/css/main.28f7bb66.css",
+    "main.js": "/rct_temp/static/js/main.e844a986.js",
+    "index.html": "/rct_temp/index.html",
+    "main.28f7bb66.css.map": "/rct_temp/static/css/main.28f7bb66.css.map",
+    "main.e844a986.js.map": "/rct_temp/static/js/main.e844a986.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f7bb66.css",
+    "static/js/main.e844a986.js"
+  ]
+}
